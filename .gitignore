@@ -1,2 +1,11 @@
 AWS keys
 DemoKey.pem
+DemoKey.pem .c9/.nakignore
+.c9/.nakignore
+.c9/launch.json
+.c9/metadata/environment/lab2-ec2.sh
+.c9/metadata/environment/lab2-ec2_ubuntu.sh
+.c9/metadata/tab0
+.c9/metadata/tab1
+.c9/out_of_memory
+.c9/project.settings
